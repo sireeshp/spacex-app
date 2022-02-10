@@ -1,0 +1,22 @@
+.grid {
+    height: 520px;
+    width: 100%;
+}
+
+.MuiButtonBase-root-MuiButton-root {
+    padding: 2px 9px !important;
+}
+
+.text-centre {
+    text-align: center;
+}
+
+.carouselDiv {
+    height: 200px;
+}
+
+.response-img {
+    height: 150px;
+    width: 100%;
+    object-fit: contain;
+}
